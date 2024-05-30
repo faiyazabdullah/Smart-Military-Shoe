@@ -3,5 +3,4 @@ Design and implement a smart military shoe system to enhance soldiers’ situati
 
 ## System Diagram
 ![System Diagram](Images/flow.png)
-![System Diagram](Images/flow.png)
-![System Diagram](Images/flow.png)
+![System Diagram](Images/system.png)
